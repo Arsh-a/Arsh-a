@@ -7,9 +7,8 @@
 
 Python Full-Stack Development: Mastering the art of creating dynamic web applications. 🌐
 Data Structures and Algorithms (DSA) with C: Sharpening problem-solving skills and optimizing code. 🔍
-📚 Passions:
 
-Reading Productivity Books: Always on the lookout for the next great read to enhance efficiency and mindset. 📖💡
+📚 Passions: Reading Productivity Books: Always on the lookout for the next great read to enhance efficiency and mindset. 📖💡
 I’m enthusiastic about coding, learning, and growing in the tech world. Feel free to connect or check out my repositories to see what I'm working on!
 
 Let's build something amazing together! 💻✨
