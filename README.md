@@ -1,8 +1,7 @@
 ## Hi there 👋 , I'm ARSHA
 # 💫 About Me:
-:
 
-👋 Hi there! I'm [Your Name], an Engineering graduate with a Computer Science degree, and I'm currently diving into the exciting world of full-stack Python development! 🚀
+👋 Hi there! I'm Arsha, an Engineering graduate with a Computer Science degree, and I'm currently diving into the exciting world of full-stack Python development! 🚀
 
 🔍 Currently Learning:
 
